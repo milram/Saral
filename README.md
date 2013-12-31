@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-A Rack-based Web Framework built by RubyLearning.
+	A Rack-based Web Framework built by RubyLearning.
 
 ## Contributing
 

@@ -1,6 +1,6 @@
 # Saral
 
-TODO: Write a gem description
+A Rack-based Web Framework built by RubyLearning.
 
 ## Installation
 
